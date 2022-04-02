@@ -1,1 +1,8 @@
-# jogo-da-cobrinha-javascript
+# Jogo da cobrinha 
+### Tecnologias usadas
+- Html
+- Css
+- Javascript
+-
+
+### Link :
